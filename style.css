@@ -1,0 +1,18 @@
+
+img{
+    object-fit: cover;
+    max-width: 60%;
+    border-radius: 15px;
+}
+
+.full-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.description{
+    
+}
