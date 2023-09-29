@@ -13,6 +13,30 @@ img{
     padding: 2rem;
 }
 
-.description{
-    
+p{
+    font-size: larger;
+}
+
+.download-btn{
+    padding: .8rem 1.3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+    background-color: #00ABB3;
+    border: none;
+    max-width: 60%;
+}
+
+.download-btn a{
+    color: #DDE6ED;
+}
+
+.download-btn a:visited{
+    color: #2a2a2a;
+}
+
+.download-btn:hover{
+    transform: scale(1.05);
 }
