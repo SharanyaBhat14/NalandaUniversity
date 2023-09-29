@@ -27,6 +27,7 @@ p{
     background-color: #00ABB3;
     border: none;
     max-width: 60%;
+    margin-left: 1.5rem;
 }
 
 .download-btn a{
@@ -39,4 +40,11 @@ p{
 
 .download-btn:hover{
     transform: scale(1.05);
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
